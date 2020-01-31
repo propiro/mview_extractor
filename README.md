@@ -3,7 +3,7 @@ Added a handy .bat file to speed up model conversion. Ensure you have python.exe
 Usage:
 Just drag n drop the mview file to convert.bat, you'll get a folder with textures and OBJ files.
 
-Credits for great tool goes to original author, original readme with links preserver below:
+Credits for great tool goes to original author, original readme with links preserved below:
 https://github.com/majimboo/mviewer
 
 MView File Viewer
